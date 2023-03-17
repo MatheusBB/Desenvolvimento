@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "AntiJeffrey",
+  "description": "Block distracting websites. The war on attention has started.",
+  "version": "1",
+  "author": "Zaurbek Stark",
+  "icons": {
+    "16": "antijeffrey-icon.png",
+    "48": "antijeffrey-icon.png",
+    "128": "antijeffrey-icon.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [{
+    "matches": [
+      "https://*.youtube.com/*", 
+      "https://*.instagram.com/*", 
+      "https://*.tiktok.com/*", 
+      "https://*.9gag.com/*", 
+      "https://*.reddit.com/*", 
+      "https://*.4chan.org/*"
+    ],
+    "js": ["content-script.js"]
+  }]
+}
