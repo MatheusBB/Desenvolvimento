@@ -1,0 +1,82 @@
+function parco(){
+
+    var park = document.getElementById("parque");
+
+    var carro = document.getElementById("carro");
+
+    var via = document.getElementById("via");
+
+    var movimento = "";
+
+    var velocidade = 0;
+
+    var distancia = 0;
+
+    var tempo = 0;
+
+    var pontoInicial = new Point(0,0);
+
+    var pontoFinal = new Point(park.offsetWidth,park.offsetHeight);
+
+    via.style.display = "none";
+
+    carro.style.display = "none";
+
+    parque.style.left = "0px";
+
+    parque.style.top = "0px";
+
+    function move(){
+
+        var now = new Date();
+
+        var hora = now.getHours();
+
+        var minuto = now.getMinutes();
+
+        if(hora >= 18 && hora < 21){
+
+            velocidade = 5;
+
+            distancia = 100;
+
+            tempo = 5;
+
+        }else if(hora >= 21 && hora < 24){
+
+            velocidade = 10;
+
+            distancia = 100;
+
+            tempo = 10;
+
+        }else{
+
+            velocidade = 20;
+
+            distancia = 100;
+
+            tempo = 20;
+
+        }
+
+        pontoInicial.x = carro.offsetWidth / 2;
+
+        pontoInicial.y = carro.offsetHeight / 2;
+
+        pontoFinal.x = carro.offsetWidth / 2;
+
+        pontoFinal.y = carro.offsetHeight / 2;
+
+        movimento = "move(" + pontoInicial.x + "," + pontoInicial.y + ")";
+
+    }
+
+    setInterval(move, 1000);
+
+}
+
+parco();
+        
+        
+        
