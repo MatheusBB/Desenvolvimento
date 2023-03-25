@@ -37,7 +37,7 @@
                         <p>Desenvolvemento tecnologico.</p>
                     </div>
                     <div class="coluna col4 sidebar">
-                        <img src="imagem/logomm.png" alt="Logo Matheus Motors">
+         <img src="![image](https://user-images.githubusercontent.com/124930107/227741138-09624f7a-a0f6-494a-8701-6e1631e5a3f5.png)" alt="LogoMatheusVicente">
                     </div>  
 
                      <div class="coluna col8">
@@ -71,7 +71,7 @@
             <div class="linha">
                 <div class="coluna col7">
                     <section>
-                        <h2><strongs>Tcnologia</strong></h2>
+                        <h2><strongs>Tecnologia</strong></h2>
                         <p>Agora é um bom momento para<br>
                             desenvolver, podemos criar e praticar tenha foco.
                          <br>
@@ -83,23 +83,14 @@
                     </section>
                 </div>
                 <div class="coluna col5">
-                    <h3><strong>Destaques</strong></h3>
-                    <ul class="sem-marcador sem-padding noticias">
-                        <li>
-                            <img src="imagem/bmw/bmw.jpg" alt="BMW I8">
-                            <h4>BMW I8</h4>
-                            <p>1.5 12V HYBRID EDRIVE ROADSTER AUTOMÁTICO... <a href="BMWM_I8.html">Mais informações &raquo;</a></p>
+                            <p>Nova geração
                         </li>
                         <li>
-                            <img src="imagem/audi/audi1.jpg" alt="AUDI RS6">
-                            <h4>AUDI RS6</h4>
-                            <p>4.0 AVANT V8 TWINTURBO MHEV TIPTRONIC... <a href="tecnologias">Mais informações &raquo;</a></p>
+                            <img src="![blaipvuy](https://user-images.githubusercontent.com/124930107/227740366-db5e3a9c-faaf-4470-b464-ca1a211f827d.pn"
+                                      
                         </li>
                         <li>
-                            <img src="imagem/tecnologia/mercados.jpg" alt="mercados-BENZ S 65 AMG">
-                            <h4>mercados-BENZ S 65 AMG</h4>
-                            <p>6.0 V12 TURBO GASOLINA L SPEEDSHIFT...
-                           <a href="mercados65.html">Mais informações &raquo;</a></p>
+                            
                         </li>
                     </ul>
                 </div>
