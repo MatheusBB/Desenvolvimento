@@ -104,10 +104,5 @@
                     <a href="https://wa.me/5511994237418" target="_blank">
                         <img class="face" 
                     <div class="coluna col12">
-                        <span>&copy; 2023 - MatheusBB </span>
-                    </div>
-                </footer>
-            </div>
-        </div>
-    </body>
-</html>
+                        <span>&copy; 2023 - MatheusBB 
+               
