@@ -6,7 +6,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Sobre - Matheus Motors</title>
+        <title>Sobre - Matheus Vicente</title>
         
         <link rel="stylesheet" href="estilo/estilo.css">  
     </head>
@@ -33,7 +33,7 @@
         <div class="linha">
             <section>
                     <div class="coluna col8">
-                        <h2><strong>Matheus Motors</strong></h2>
+                        <h2><strong>Matheus Vicente</strong></h2>
                         <p>Desenvolvemento tecnologico.</p>
                     </div>
                     <div class="coluna col4 sidebar">
