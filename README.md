@@ -1,5 +1,131 @@
 
 ![Banner para Linkedin Tecnologia em Preto](https://user-images.githubusercontent.com/124930107/226197997-3fb77eb4-bd4f-4268-aa68-2dd754823071.png)
-|![image](https://user-images.githubusercontent.com/124930107/225447750-c4e8f122-aad3-40ec-9bf9-e90618b193b0.png)  | 🙂
- | ------------- | ------------- |
+![image](https://user-images.githubusercontent.com/124930107/225447750-c4e8f122-aad3-40ec-9bf9-e90618b193b0.png)  
+ 
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Sobre - Matheus Motors</title>
+        <![image](https://user-images.githubusercontent.com/124930107/225447750-c4e8f122-aad3-40ec-9bf9-e90618b193b0.png)
+        <link rel="stylesheet" href="estilo/estilo.css">  
+    </head>
+    <body>
+        <div class="header">
+            <div class="linha">
+                <header>
+                    <div class="coluna col4">
+                        <img src="imagem/logomm.png" class="logo">
+                    </div>
+                    <div class="coluna col8">
+                        <nav>
+                            <ul class="menu inline sem-marcador">
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="estoque.html">Estoque</a></li>
+                                <li><a href="sobre.html" class="emenu">Sobre</a></li>
+                                <li><a href="contato.html">Contato</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </header>
+            </div>
+        </div>
+        <div class="linha">
+            <section>
+                    <div class="coluna col8">
+                        <h2><strong>Matheus Motors</strong></h2>
+                        <p>Fundada em 2005, a <strong>Matheus Motors</strong> é uma empresa especializada na comercialização de veículos novos
+                        e semi-novos. Localizada na R. Bento Branco de Andrade Filho, 379
+                        Santo Amaro, São Paulo, nossa loja conta com 
+                        um espaço moderno e sofisticado para melhor atender seus clientes, parceiros e amigos, mantendo
+                        a tradição que a empresa traz nas vendas e pós-vendas, tornando-se referência no mercado local e
+                        nacional para compra e venda de importados.</p>
+                    </div>
+                    <div class="coluna col4 sidebar">
+                        <img src="imagem/logomm.png" alt="Logo Matheus Motors">
+                    </div>  
 
+                     <div class="coluna col8">
+                            <h3><strong>Missão</strong></h3>
+                            <p>Preparada para prestar todos os serviços necessários, seja na compra, venda, 
+                            consignação, importação e financiamento do seu veículo. Buscando sempre a 
+                            satisfação em atender as necessidades e superar as expectativas dos clientes
+                            </p>
+                    </div>
+
+                    <div class="coluna col4">
+                            <h3><strong>Visão</strong></h3>
+                            <p>Ser uma empresa referência e reconhecida como a melhor opção pelos clientes, 
+                            colaboradores e parceiros no ramo de compra e venda de veículos importados,
+                            buscando à qualidade de nossos veículos, serviços e relacionamento.
+                            </p>
+                    </div>
+                    <div class="coluna col8">
+                        <h3><strong>Valores</strong></h3>
+                        <p>Integridade, Comprometimento, Valorização Humana, Superação de Resultados, 
+                        Melhoria Contínua, Inovação, Praticidade, Satisfação dos Clientes.
+                        </p>
+                    </div>
+                    <div class="coluna col4">
+                        <h3><strong>Parcerias</strong></h3>
+                        <p>Através de parcerias criadas com as melhores instituições financeiras e 
+                        corretoras de seguro, apresentamos as melhores taxas de financiamento aos nossos clientes.
+                        </p>
+                    </div>
+
+            </section>
+        </div>
+        <div class="conteudo-extra">
+            <div class="linha">
+                <div class="coluna col7">
+                    <section>
+                        <h2><strong>Loja Matheus Motors</strong></h2>
+                        <p>Agora é um bom momento para<br>
+                            comprar um carro, podemos lhe<br>
+                            fornecer novos e com ótimos preços.
+                        </p><br>
+                        <h2><strong>Faça uma visita</strong></h2>
+                        <p>R. Bento Branco de Andrade Filho, 379<br>
+                        Santo Amaro, São Paulo<br>
+                        SP, 04757-000
+                        </p>
+                    </section>
+                </div>
+                <div class="coluna col5">
+                    <h3><strong>Destaques</strong></h3>
+                    <ul class="sem-marcador sem-padding noticias">
+                        <li>
+                            <img src="imagem/bmw/bmw.jpg" alt="BMW I8">
+                            <h4>BMW I8</h4>
+                            <p>1.5 12V HYBRID EDRIVE ROADSTER AUTOMÁTICO... <a href="BMWM_I8.html">Mais informações &raquo;</a></p>
+                        </li>
+                        <li>
+                            <img src="imagem/audi/audi1.jpg" alt="AUDI RS6">
+                            <h4>AUDI RS6</h4>
+                            <p>4.0 AVANT V8 TWINTURBO MHEV TIPTRONIC... <a href="Audi_RS6.html">Mais informações &raquo;</a></p>
+                        </li>
+                        <li>
+                            <img src="imagem/mercedes/mercedes.jpg" alt="MERCEDES-BENZ S 65 AMG">
+                            <h4>MERCEDES-BENZ S 65 AMG</h4>
+                            <p>6.0 V12 TURBO GASOLINA L SPEEDSHIFT...
+                           <a href="mercedes65.html">Mais informações &raquo;</a></p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="linha">
+                <footer>
+                    <a href="https://www.facebook.com/profile.php?id=100065045134000" target="_blank">
+                        <img src="imagem/face.png" alt="Facebook" width="30px" height="30px"></a>
+                    <a href="https://wa.me/5511994237418" target="_blank">
+                        <img class="face" src="imagem/whats (2).png" alt="Whatsapp" width="50px" height="50px"></a>
+                    <div class="coluna col12">
+                        <span>&copy; 2023 - MatheusBB </span>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>
