@@ -102,7 +102,5 @@
                     <a href="https://instagram.com/matheus.vicente117?igshid=ZDdkNTZiNTM" target="_blank">
                         <img src="imagem/istra.png" alt="istragam" width="30px" height="30px"></a>
                     <a href="https://wa.me/5511994237418" target="_blank">
-                        <img class="face" 
-                    <div class="coluna col12">
                         <span>&copy; 2023 - MatheusBB 
                
