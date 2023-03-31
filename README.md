@@ -37,9 +37,7 @@
                         <p>Desenvolvemento tecnologico.</p>
                     </div>
                     <div class="coluna col4 sidebar">
-         <img src="![image](https://user-images.githubusercontent.com/124930107/227741138-09624f7a-a0f6-494a-8701-6e1631e5a3f5.png)" alt="LogoMatheusVicente">
-                    </div>  
-
+                    
                      <div class="coluna col8">
                             <h3><strong>Missão</strong></h3>
                             <p>Preparada para prestar todos os serviços necessários.. Buscando sempre a 
