@@ -74,21 +74,6 @@
                         <h2><strongs>Tecnologia</strong></h2>
                         <p>Agora é um bom momento para<br>
                             desenvolver, podemos criar e praticar tenha foco.
-                         <br>
-                            
-                        </p><br>
-                        
-                                      
-                        </li>
-                        <li>
-                            
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="footer">
-            <div class="linha">
-                <footer>
+                       
                     <a href="https://instagram.com/matheus.vicente117?igshid=ZDdkNTZiNTM" target="_blank">
                
