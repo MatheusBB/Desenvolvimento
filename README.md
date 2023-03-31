@@ -76,7 +76,7 @@
                     <a href="https://instagram.com/matheus.vicente117?igshid=ZDdkNTZiNTM" target="_blank">
                     
  
- <!DOCTYPE html>
+ 
 <html lang="en">
   <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
