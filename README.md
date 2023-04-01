@@ -217,8 +217,8 @@
 
 
 
-// Based on https://css-tricks.com/how-to-animate-the-details-element-using-waapi/
-class Accordion {
+// Based on 
+  class Accordion {
   constructor(el) {
     // Store the <details> element
     this.el = el;
